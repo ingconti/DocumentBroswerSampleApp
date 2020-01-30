@@ -20,14 +20,14 @@
             <key>CFBundleTypeIconFiles</key>
             <array/>
             <key>CFBundleTypeName</key>
-            <string>xrk File</string>
+            <string>abc File</string>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>LSHandlerRank</key>
             <string>Owner</string>
             <key>LSItemContentTypes</key>
             <array>
-                <string>org.example.app.document.xrk</string>
+                <string>org.example.app.document.abc</string>
             </array>
         </dict>
     </array>
@@ -41,16 +41,16 @@
                 <string>public.data</string>
             </array>
             <key>UTTypeDescription</key>
-            <string>xrk File</string>
+            <string>abc File</string>
             <key>UTTypeIconFiles</key>
             <array/>
             <key>UTTypeIdentifier</key>
-            <string>org.example.app.document.xrk</string>
+            <string>org.example.app.document.abc</string>
             <key>UTTypeTagSpecification</key>
             <dict>
                 <key>public.filename-extension</key>
                 <array>
-                    <string>xrk</string>
+                    <string>abc</string>
                 </array>
             </dict>
         </dict>
